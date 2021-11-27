@@ -12,11 +12,11 @@ permalink: /publications/
 
 ### Journals
 
-* Minici, R., Ammendola, M., Manti, F., Siciliano, M. A., Giglio, E., Minici, M., ... & Laganà, D. (2021). Safety and Efficacy of Degradable Starch Microspheres Transcatheter Arterial Chemoembolization as a Bridging Therapy in Patients with Early Stage Hepatocellular Carcinoma and Child-Pugh Stage B Eligible for Liver Transplant. Frontiers in Pharmacology, 12, 462.
+* Minici, R., Ammendola, M., Manti, F., Siciliano, M. A., Giglio, E., Minici, M., ... & Laganà, D. (2021). [Safety and Efficacy of Degradable Starch Microspheres Transcatheter Arterial Chemoembolization as a Bridging Therapy in Patients with Early Stage Hepatocellular Carcinoma and Child-Pugh Stage B Eligible for Liver Transplant](https://pubmed.ncbi.nlm.nih.gov/33897421/). Frontiers in Pharmacology, 12, 462.
 
-* Minici, R., Ammendola, M., Manti, F., Siciliano, M. A., Minici, M., Komaei, I., ... & Laganà, D. (2021). Safety and Efficacy of Degradable Starch Microspheres Transcatheter Arterial Chemoembolization (DSM-TACE) in the Downstaging of Intermediate-Stage Hepatocellular Carcinoma (HCC) in Patients With a Child-Pugh Score of 8-9. Frontiers in Pharmacology, 12.
+* Minici, R., Ammendola, M., Manti, F., Siciliano, M. A., Minici, M., Komaei, I., ... & Laganà, D. (2021). [Safety and Efficacy of Degradable Starch Microspheres Transcatheter Arterial Chemoembolization (DSM-TACE) in the Downstaging of Intermediate-Stage Hepatocellular Carcinoma (HCC) in Patients With a Child-Pugh Score of 8-9](https://pubmed.ncbi.nlm.nih.gov/33897422/). Frontiers in Pharmacology, 12.
 
-* Minici, R., Ammendola, M., Talarico, M., Luposella, M., Minici, M., Ciranni, S., ... & Laganà, D. (2021). Endovascular Recanalization of Chronic Total Occlusions of the Native Superficial Femoral Artery After Failed Femoropopliteal Bypass in Patients with Critical Limb Ischemia.
+* Minici, R., Ammendola, M., Talarico, M., Luposella, M., Minici, M., Ciranni, S., ... & Laganà, D. (2021). [Endovascular Recanalization of Chronic Total Occlusions of the Native Superficial Femoral Artery After Failed Femoropopliteal Bypass in Patients with Critical Limb Ischemia](https://cvirendovasc.springeropen.com/articles/10.1186/s42155-021-00256-0).
 
 
 
