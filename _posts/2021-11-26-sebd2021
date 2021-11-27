@@ -4,7 +4,7 @@ title: "Unbiasing Collaborative Filtering for Popularity-Aware Recommendation" a
 # categories: [Publications, News]
 ---
 
-Paper "Unbiasing Collaborative Filtering for Popularity-Aware Recommendation (Discussion Paper)" has been officially accepted for publication @SEBD'21. 
+Paper ["Unbiasing Collaborative Filtering for Popularity-Aware Recommendation (Discussion Paper)"](http://ceur-ws.org/Vol-2994/paper51.pdf) has been officially accepted for publication @SEBD'21. 
 Joint work with Luciano Caroprese, Giuseppe Manco, Francesco Sergio Pisani and Ettore Ritacco from ICAR-CNR. 
 
 It is a discussion paper where we show some promising results regarding debiasing techniques used to tackle Popularity Bias in a Collaborative Filtering setting.
