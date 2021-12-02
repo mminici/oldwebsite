@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Conferences
 
-* Cinus, F., Minici, M., Monti, C., Bonchi, F. (2022). ICWSM 2022: The 16th International Conference on Web and Social Media. The Effect of People Recommenders on Echo Chambers and Polarization. Accepted for publication at ICWSM 2022. Preprint ASAWC.
+* Cinus, F., Minici, M., Monti, C., & Bonchi, F. (2021). [The Effect of People Recommenders on Echo Chambers and Polarization](https://arxiv.org/abs/2112.00626). arXiv preprint to be published at ICWSM 2022.
 
 * Caroprese, L., Manco, G., Minici, M., Pisani, F. S., & Ritacco, E. (2021). SEBD 2021: The 29th Italian Symposium on Advanced Database Systems. [Unbiasing Collaborative Filtering for Popularity-Aware Recommendation.](http://ceur-ws.org/Vol-2994/paper51.pdf)
 
